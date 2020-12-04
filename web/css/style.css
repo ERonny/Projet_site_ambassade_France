@@ -10,6 +10,25 @@ header{
     height: 300px;
     padding: 23px 0 34px;
 }
-.row .colon{
-    width: 200px;
+.col-3 .list li{
+    list-style: none;
+    display: inline;
+    
+}
+
+.row{
+    margin-bottom: 30px;
+}
+.container ul li{
+    list-style: none;
+    display: inline-block;
+    width: 120px;
+    margin-right: 20px;
+}
+span{ margin-left: 40%;
+
+}
+.cont{
+    height: 600px;
+    
 }
