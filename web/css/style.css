@@ -7,7 +7,7 @@ body{
 }
 header{
     width: 100%;
-    height: 300px;
+    height: 338px;
     padding: 23px 0 34px;
 }
 .col-3 .list li{
@@ -19,16 +19,73 @@ header{
 .row{
     margin-bottom: 30px;
 }
-.container ul li{
+.tain ul li{
     list-style: none;
     display: inline-block;
     width: 120px;
     margin-right: 20px;
 }
-span{ margin-left: 40%;
+#fa{ margin-left: 40%;
 
 }
 .cont{
     height: 600px;
     
+}
+.container{
+    display: flex;
+   
+}
+.cont2{
+    flex-direction: column;
+    margin: 50px 15px 0 15px;
+}
+.text1{
+    width: 300px;
+    height: 150px;
+    border-top: 5px solid blue;
+    margin-bottom: 20px;
+    
+}
+.texte2{
+    width: 300px;
+    height: 250px;
+    background-color: royalblue;
+    border-top: 5px solid blue;
+}
+.cont1{
+    width: 75%;
+    height: 620px;
+    border-bottom: 2px solid rgb(47, 46, 46);
+    border-top: 5px solid blue;
+    position: relative;
+    top: 50px;
+}
+.cont121{
+    width: 75%;
+    height: 760px;
+    border-bottom: 2px solid rgb(47, 46, 46);
+    border-top: 5px solid blue;
+    position: relative;
+    top: 50px;
+}
+.contenu{
+    
+    position: relative;
+    top: 100px;
+    height: 700px;
+    
+}
+.cont1 h2{
+    margin: 5px 10px;
+}
+#less{
+ display: flex;   
+}
+.lien a{
+    display: block;
+    font-size: 15px;
+}
+.lien a{
+    text-decoration: ;
 }
